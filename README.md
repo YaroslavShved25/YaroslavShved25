@@ -92,7 +92,6 @@ I bring deep technical expertise, clean coding standards, and a strong business 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
 <img align="left" alt="NumPy" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
 <img align="left" alt="HuggingFace" width="30px" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />

@@ -97,18 +97,19 @@ I bring deep technical expertise, clean coding standards, and a strong business 
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Keras" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" />
+<img align="left" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
 <img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
 <img align="left" alt="NumPy" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
-<img align="left" alt="HuggingFace" width="30px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+<img align="left" alt="HuggingFace" width="30px" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="BeautifulSoup" width="30px" src="https://scrapy.org/img/scrapylogo.png" />
+<img align="left" alt="BeautifulSoup" width="30px" src="https://avatars.githubusercontent.com/u/365630?v=4" />
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
 <img align="left" alt="GCP" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+
 <br />
 <br />
 

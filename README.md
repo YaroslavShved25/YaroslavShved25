@@ -83,13 +83,7 @@ I bring deep technical expertise, clean coding standards, and a strong business 
 
 * 🌍 Upwork: [Yaroslav Shved's Profile](https://www.upwork.com/freelancers/~018e8bdb3c331c868f)
 
----
 
-### ⚙️ GitHub Stats
-
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=YaroslavShved25&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavShved25&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<br clear="both"/>
 
 ---
 

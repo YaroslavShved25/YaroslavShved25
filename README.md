@@ -2,7 +2,7 @@
 
 #  Welcome to Yaroslav Shved’s GitHub Profile 
 
-##  Senior Data Scientist | AI/ML Engineer | Full-Stack MERN Developer | Automation & Web Scraping Expert
+##  Senior Data Scientist | AI/ML Engineer | Full-Stack Developer | Automation & Web Scraping Expert
 
 ---
 
